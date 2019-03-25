@@ -6,7 +6,7 @@ public class Program {
 		
 		System.out.println("Hello, git!");
 		System.out.println("Send via eGit, Eclipse 4.11");
-		// Modification on Exlipse
+		// Modification on Eclipse
 	}
 
 }
